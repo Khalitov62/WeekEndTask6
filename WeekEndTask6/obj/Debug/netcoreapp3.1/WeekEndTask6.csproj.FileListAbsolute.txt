@@ -1,0 +1,14 @@
+C:\Users\tu7m5rk73\source\repos\WeekEndTask6\WeekEndTask6\bin\Debug\netcoreapp3.1\WeekEndTask6.exe
+C:\Users\tu7m5rk73\source\repos\WeekEndTask6\WeekEndTask6\bin\Debug\netcoreapp3.1\WeekEndTask6.deps.json
+C:\Users\tu7m5rk73\source\repos\WeekEndTask6\WeekEndTask6\bin\Debug\netcoreapp3.1\WeekEndTask6.runtimeconfig.json
+C:\Users\tu7m5rk73\source\repos\WeekEndTask6\WeekEndTask6\bin\Debug\netcoreapp3.1\WeekEndTask6.runtimeconfig.dev.json
+C:\Users\tu7m5rk73\source\repos\WeekEndTask6\WeekEndTask6\bin\Debug\netcoreapp3.1\WeekEndTask6.dll
+C:\Users\tu7m5rk73\source\repos\WeekEndTask6\WeekEndTask6\bin\Debug\netcoreapp3.1\WeekEndTask6.pdb
+C:\Users\tu7m5rk73\source\repos\WeekEndTask6\WeekEndTask6\obj\Debug\netcoreapp3.1\WeekEndTask6.csproj.AssemblyReference.cache
+C:\Users\tu7m5rk73\source\repos\WeekEndTask6\WeekEndTask6\obj\Debug\netcoreapp3.1\WeekEndTask6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7m5rk73\source\repos\WeekEndTask6\WeekEndTask6\obj\Debug\netcoreapp3.1\WeekEndTask6.AssemblyInfoInputs.cache
+C:\Users\tu7m5rk73\source\repos\WeekEndTask6\WeekEndTask6\obj\Debug\netcoreapp3.1\WeekEndTask6.AssemblyInfo.cs
+C:\Users\tu7m5rk73\source\repos\WeekEndTask6\WeekEndTask6\obj\Debug\netcoreapp3.1\WeekEndTask6.csproj.CoreCompileInputs.cache
+C:\Users\tu7m5rk73\source\repos\WeekEndTask6\WeekEndTask6\obj\Debug\netcoreapp3.1\WeekEndTask6.dll
+C:\Users\tu7m5rk73\source\repos\WeekEndTask6\WeekEndTask6\obj\Debug\netcoreapp3.1\WeekEndTask6.pdb
+C:\Users\tu7m5rk73\source\repos\WeekEndTask6\WeekEndTask6\obj\Debug\netcoreapp3.1\WeekEndTask6.genruntimeconfig.cache
